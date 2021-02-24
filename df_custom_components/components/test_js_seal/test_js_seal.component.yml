@@ -1,0 +1,6 @@
+name: Test Seal Component
+description: 'Do you like seals?'
+js:
+  test_js_seal.js: {}
+css:
+  test_js_seal.css: {}
