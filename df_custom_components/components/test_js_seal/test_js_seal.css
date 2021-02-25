@@ -8,8 +8,17 @@
   position: relative;
 }
 
+.seal_textwrapper {
+  text-align: center;
+}
+
 .seal_heading {
   color: white;
+}
+
+.seal_button {
+  cursor: pointer;
+  padding: 0 2rem;
 }
 
 .seal_image {
